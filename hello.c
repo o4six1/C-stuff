@@ -1,3 +1,4 @@
+// the fundamentals
 #include <stdio.h>
 
 int main()
@@ -9,8 +10,8 @@ int main()
         NewLine : \n
         Tab     : \t
     */
-    printf("Haiiii\n");
+    printf("Hi\n");
     printf("1\t2\t3\n");
-    printf("\":3c\" - chase \e");
+    printf("\":D\" - omeone \n");
     return 0;
 }
